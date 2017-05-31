@@ -8,7 +8,7 @@ If you have just reinstalled Windows 10 on a PC that contains a Windows 10, 8.1 
 ## How-To
 * Start cmd as Administrator
 * Navigate to the location of relicense.bat
-* Run licenseArm.bat
+* Run relicense.bat
 
 ## Disclaimer
 This has only been tested on a PC that contains a Windows 10 product key running Windows 10
